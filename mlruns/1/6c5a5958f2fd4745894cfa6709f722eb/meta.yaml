@@ -1,0 +1,15 @@
+artifact_uri: mlruns/1/6c5a5958f2fd4745894cfa6709f722eb/artifacts
+end_time: 1625054741459
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 6c5a5958f2fd4745894cfa6709f722eb
+run_uuid: 6c5a5958f2fd4745894cfa6709f722eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1625054724051
+status: 3
+tags: []
+user_id: seemant.singh
